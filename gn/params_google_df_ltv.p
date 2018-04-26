@@ -27,10 +27,10 @@ g2
 Ntp12
 Rp13
 ((lp14
-cpandas.indexes.base
+cpandas.core.indexes.base
 _new_Index
 p15
-(cpandas.indexes.base
+(cpandas.core.indexes.base
 Index
 p16
 (dp17
@@ -83,7 +83,7 @@ p38
 Nstp39
 Rp40
 ag15
-(cpandas.indexes.range
+(cpandas.core.indexes.range
 RangeIndex
 p41
 (dp42

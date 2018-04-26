@@ -27,10 +27,10 @@ g2
 Ntp12
 Rp13
 ((lp14
-cpandas.indexes.base
+cpandas.core.indexes.base
 _new_Index
 p15
-(cpandas.indexes.base
+(cpandas.core.indexes.base
 Index
 p16
 (dp17
@@ -91,7 +91,7 @@ p42
 Nstp43
 Rp44
 ag15
-(cpandas.indexes.range
+(cpandas.core.indexes.range
 RangeIndex
 p45
 (dp46
@@ -662,9 +662,9 @@ aS'HAMP-TU Matched Sample'
 p140
 aS'HAMP-TU Matched Sample'
 p141
-aS'Interest cost + Taxes + maintenance'
+aS'Interest cost + Taxes'
 p142
-aS'Taxes + maintenance. suggestion: previous was 0.04'
+aS'Taxes. suggestion: previous was 0.04'
 p143
 aS'Does not grow w home value'
 p144
